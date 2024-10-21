@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">pmdpractica1</string>
+    <string name="etnumero">Tu número</string>
+    <string name="btcomprobar">Comprobar</string>
+    <string name="btreiniciar">Reiniciar</string>
+    <string name="etintroprimo">Introduce un número primo</string>
+    <string name="noprimo">No es un número primo</string>
+    <string name="primo">Es un número primo</string>
+</resources>
